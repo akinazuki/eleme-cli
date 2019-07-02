@@ -104,5 +104,9 @@ latitude=
 ```
 
 
-
-
+### TODO
+ - Shopping Cart
+ - Checkout
+ - Address Edit / Create
+ - Order Status
+ - More...
