@@ -6,7 +6,16 @@ A Command-Line Ele.me Client
  - ```mv .env.example .env```
  - ```vi .env```
  - Login to [ele.me](https://ele.me) , Find Cookie Field ```SID``` and input it to ```.env``` file
- - Input Your GPS Location to ``.env``` File
+ - Input Your GPS Location to ```.env``` File
+
+## Example ```.env``` File
+
+```
+SID=
+longitude=
+latitude=
+```
+
 
 ## Usage
 
